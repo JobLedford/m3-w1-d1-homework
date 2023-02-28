@@ -1,0 +1,11 @@
+{
+  "name": "m3-w1-d1-homework",
+  "version": "1.0.0",
+  "description": "server homework",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "author": "Job Ledford",
+  "license": "ISC"
+}

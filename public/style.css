@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(blue,black);
+}
+h1 {
+    text-align: center;
+    font-size:3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-shadow: white 2px 2px;
+}
+p {
+    text-align: center;
+    font-size:2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    outline: 1px solid white;
+    padding: 2em;
+    margin:3em;
+    font-weight:bolder;
+}
